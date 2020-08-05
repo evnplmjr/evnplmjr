@@ -1,4 +1,4 @@
-
+![Banner Image](https://www.canva.com/design/DAEEAOSOENk/view?utm_content=DAEEAOSOENk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## Hi, I'm Evan
   Hi, I'm Evan Palmejar and I'm a marine engineer transitioning into the tech industry.
