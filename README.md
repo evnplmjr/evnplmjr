@@ -12,11 +12,10 @@
 
 ## About Me
   After sailing onboard tanker ships for over 5 years, I am currently learning
-  programming for data science and engineering. 
+  data science and analytics. 
 
-  My interest in programming started with basic web development with HTML and CSS, and I eventually 
-  branched out to data science and engineering, where I was able to find answers to my questions.
-  I believe this passion for learning that I have is the driving force that keeps me motivated to this day.
+  My interest in creative storytelling and investigative reporting led me to transition towards the data science and analytics field.
+  I believe my passion for learning is the driving force that keeps me motivated to this day.
   I genuinely enjoy learning something new and being able to apply it beyond of what I think I was capable of.
 
 
