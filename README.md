@@ -14,7 +14,9 @@
   Aside from my maritime background, I have also engaged myself in data analytics and data engineering courses and programs.
   
   In my previous career as a marine engineer, I was responsible for the daily operations and maintenance of the ship’s equipment and machinery. I was in charge of the documentation of the ship’s engineering operations in the Oil Record Book and Engine Log Book. I also led a technical team for risk reduction and disaster management.
-  My experience at sea has given me a unique perspective in approaching every situation with adaptability, enthusiasm, and a sense of humour. Currently, I am a data analyst working in the collection and analysis of both technical and commercial data in the maritime industry to aid executives in making data-driven decisions.
+  My experience at sea has given me a unique perspective in approaching every situation with adaptability, enthusiasm, and a sense of humour. 
+  
+  Currently, I am a data analyst working in the collection and analysis of both technical and commercial data in the maritime industry to aid executives in making data-driven decisions.
 
   I am particularly fond of data cleaning, data processing, and data visualization. I genuinely enjoy the challenges that are associated when it comes to dealing with messy  data.
   I continue to develop my skills and interest in data and analytics engineering, and data product development through various courses, programs, and projects. 
